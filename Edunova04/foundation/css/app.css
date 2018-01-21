@@ -1,0 +1,10 @@
+.generiraj{
+	width: 100%; 
+	height: 150px; 
+	font-size: 3em;
+}
+
+td{
+	text-align: right;
+	border: 1px solid gray;
+}
